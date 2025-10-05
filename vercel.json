@@ -1,20 +1,5 @@
 {
-  "functions": {
-    "api/generate-response.py": {
-      "runtime": "python3.9"
-    },
-    "api/health.py": {
-      "runtime": "python3.9"
-    }
-  },
-  "routes": [
-    {
-      "src": "/api/generate-response",
-      "dest": "/api/generate-response.py"
-    },
-    {
-      "src": "/api/health",
-      "dest": "/api/health.py"
-    }
-  ]
+  "buildCommand": "",
+  "devCommand": "",
+  "installCommand": ""
 }
