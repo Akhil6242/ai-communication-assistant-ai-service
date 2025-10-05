@@ -1,8 +1,4 @@
-flask==2.3.3
-flask-cors==4.0.0
-gunicorn==21.2.0
-
-transformers==4.35.0
-torch==2.1.0
-python-dotenv==1.0.0
-waitress==3.0.0
+# No additional requirements needed for this simple implementation
+# Add AI libraries here when you integrate actual AI models
+# openai==1.3.5
+# transformers==4.21.0
